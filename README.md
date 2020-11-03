@@ -11,3 +11,5 @@ If I will succeed? Do not know... :-)
 
 Do not have any experience in programming Raspberry. No experience with the CDP Studio either, but it seems to be the
 perfect alternative for this project. Next project will be to do the same with the brewing controller as well.
+
+Read the wiki pages for updates on progress
